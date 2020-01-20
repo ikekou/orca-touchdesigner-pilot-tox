@@ -56,6 +56,10 @@ How to run --> https://github.com/ikekou/Pilot/blob/master/README.md
 
 That's all.
 
+![orca](https://github.com/ikekou/orca-touchdesigner-pilot-tox/blob/master/README/orca.gif?raw=true)
+![touchdesigner](https://github.com/ikekou/orca-touchdesigner-pilot-tox/blob/master/README/touchdesigner.gif?raw=true)
+![pilot](https://github.com/ikekou/orca-touchdesigner-pilot-tox/blob/master/README/pilot.gif?raw=true)
+
 ### Run TouchDesigner and open example
 
 Open `example/touchdesigner/touchdesigner-example.toe`
