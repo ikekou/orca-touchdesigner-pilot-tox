@@ -1,9 +1,8 @@
 # orca-touchdesigner-pilot-tox
 
-A tox that links ORCA, TouchDesigner and Pilot.  
-Receives UDP from Orca and parses it into CHOPs. And proxy to Pilot.
-
-## Dependencies
+I wanted to operate TouchDesigner and Pilot from ORCA.  
+This is a tox that links ORCA, TouchDesigner and Pilot.  
+It receives UDP from Orca and parses it into CHOPs, and proxy to Pilot.
 
 hundredrabbits/Orca: Esoteric Programming Language  
 https://github.com/hundredrabbits/Orca
@@ -39,15 +38,19 @@ https://derivative.ca/download
 
 Run Orca, and open example/orca/orca-example.orca .
 
-### Run Pilot
-
-Just run fork version Pilot.
+How to run --> https://github.com/hundredrabbits/Orca/blob/master/README.md
 
 ### Change UDP Port of Orca
 
 Menu > Communication > Choose UPD Port
 
 Input `49169` .
+
+### Run Pilot
+
+Just run fork version Pilot.
+
+How to run --> https://github.com/ikekou/Pilot/blob/master/README.md
 
 ### Done
 
@@ -68,12 +71,6 @@ So I considered sending from Orca to TouchDesigner and then from TouchDesigner t
 ```
 [ Orca ] == (UDP) ==> (port:49169) [ TouchDesigner ] == (UDP) ==> (port:49161) [ Pilot ]
 ```
-
-## Known issues
-
-In Pilot, the case changes depending on the case. However, this tox treats the same. 
-
-But it may not be too much trouble in visual expression. And it seems that Orca's OSC itself has such a specification.
 
 ## I think there is another better way.
 
