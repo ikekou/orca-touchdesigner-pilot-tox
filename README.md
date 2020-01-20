@@ -76,6 +76,24 @@ So I considered sending from Orca to TouchDesigner and then from TouchDesigner t
 Orca == (UDP, port:49169) ==> TouchDesigner == (UDP, port:49161) ==> Pilot
 ```
 
+## Value mapping
+
+### Channel
+Divide into individual CHOP operators.  
+
+### Octave
+Receive values from "0" to "8" and map from "0" to "1".
+
+### Note
+Map the values of "A" to "Z" to receive "0" to "1". The lowest note is "C" and the highest note is "z". Sounds of the same pitch are mapped to the same value, depending on the scale. For example, "A" and "H" are the same, and "e" and "F" are the same.
+
+### Velocity
+Receives values from 0 to f and maps them from 0 to 1.
+
+### Length
+Receives values from 0 to f and maps them from 0 to 1.
+
+
 ## I think there is another better way.
 
 I'm sure Orca has an easier way, but I didn't know. Please let me know if you know.
