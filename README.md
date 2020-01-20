@@ -38,7 +38,7 @@ https://derivative.ca/download
 
 Run Orca, and open example/orca/orca-example.orca .
 
-How to run --> https://github.com/hundredrabbits/Orca/blob/master/README.md
+How to run 👉 https://github.com/hundredrabbits/Orca/blob/master/README.md
 
 ### Change UDP Port of Orca
 
@@ -50,7 +50,7 @@ Input `49169` .
 
 Just run fork version Pilot.
 
-How to run --> https://github.com/ikekou/Pilot/blob/master/README.md
+How to run 👉 https://github.com/ikekou/Pilot/blob/master/README.md
 
 ### Run TouchDesigner and open example
 
@@ -96,6 +96,6 @@ Receives values from 0 to f and maps them from 0 to 1.
 
 ## I think there is another better way.
 
-I'm sure Orca has an easier way, but I didn't know. Please let me know if you know.
+I'm sure Orca has an easier way, but I didn't know 🤔. Please let me know if you know.
 
 https://twitter.com/ikekou
