@@ -1,7 +1,7 @@
 # orca-touchdesigner-pilot-tox
 
 I wanted to operate TouchDesigner and Pilot from ORCA.  
-This is a tox that links ORCA, TouchDesigner and Pilot.  
+This is a simple tox that links ORCA, TouchDesigner, and Pilot.  
 It receives UDP from Orca and parses it into CHOPs, and proxy to Pilot.
 
 hundredrabbits/Orca: Esoteric Programming Language  
