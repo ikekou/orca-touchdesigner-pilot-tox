@@ -18,13 +18,13 @@ https://derivative.ca/
 
 ### Install ORCA 
 
-Please download it.
+Please clone or download it.
 
 https://github.com/hundredrabbits/Orca
 
 ### Install Pilot
 
-Needed a little remodeling. So download this fork version.
+Needed a little remodeling. So clone or download this fork version.
 
 https://github.com/ikekou/Pilot
 
