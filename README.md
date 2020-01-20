@@ -73,7 +73,7 @@ So I considered sending from Orca to TouchDesigner and then from TouchDesigner t
 ### Flow
 
 ```
-[ Orca ] == (UDP) ==> (port:49169) [ TouchDesigner ] == (UDP) ==> (port:49161) [ Pilot ]
+Orca == (UDP, port:49169) ==> TouchDesigner == (UDP, port:49161) ==> Pilot
 ```
 
 ## I think there is another better way.
