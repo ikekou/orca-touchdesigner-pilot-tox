@@ -58,7 +58,7 @@ Open `example/touchdesigner/touchdesigner-example.toe`
 
 ### 🥳 Done
 
-That's all.
+That's all. 👏👏👏
 
 ![orca](https://github.com/ikekou/orca-touchdesigner-pilot-tox/blob/master/README/orca.gif?raw=true)
 ![touchdesigner](https://github.com/ikekou/orca-touchdesigner-pilot-tox/blob/master/README/touchdesigner.gif?raw=true)
