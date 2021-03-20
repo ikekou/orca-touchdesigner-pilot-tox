@@ -101,6 +101,6 @@ I'm sure Orca has an easier way, but I didn't know 🤔. Please let me know if y
 https://twitter.com/ikekou
 
 
-## Better application
+## 🥰 Better application
 
 MAKIO135/aioi: A companion app for ORCΛ using its UDP operator to send UDP messages or complex OSC message to multiple hosts https://github.com/makio135/aioi
