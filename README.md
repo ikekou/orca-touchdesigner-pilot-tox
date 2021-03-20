@@ -99,3 +99,8 @@ Receives values from 0 to f and maps them from 0 to 1.
 I'm sure Orca has an easier way, but I didn't know 🤔. Please let me know if you know.
 
 https://twitter.com/ikekou
+
+
+## Better application
+
+MAKIO135/aioi: A companion app for ORCΛ using its UDP operator to send UDP messages or complex OSC message to multiple hosts https://github.com/makio135/aioi
